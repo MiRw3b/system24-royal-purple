@@ -4,4 +4,5 @@ to use, simply import the .theme.css file, or if you use something like vencord 
 the system24 theme, but in royal purple color scheme<br>
 **note:** The theme uses the font [Inter](https://github.com/rsms/inter) so you should install it.... i guess.<br>
 preview:
-<img width="1836" height="1031" alt="image" src="https://github.com/user-attachments/assets/87a55b9a-1044-4fe7-94f8-3edb19edf4cd" />
+<img width="1837" height="1035" alt="image" src="https://github.com/user-attachments/assets/ac9964b2-1d94-47b3-9fd8-5c13b5b2cfb2" />
+
